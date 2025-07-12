@@ -26,3 +26,15 @@ Compile and run `Main.java` to see examples in action:
 ```bash
 javac Main.java
 java Main
+
+---
+
+## 🚀 Why SOLID?
+The SOLID principles help developers build software that is:
+
+- ✅ Maintainable
+- ✅ Extensible
+- ✅ Testable
+- ✅ Flexible to change
+
+Explore the examples in this project to understand how good design practices make a significant difference!
