@@ -26,7 +26,7 @@ Compile and run `Main.java` to see examples in action:
 ```bash
 javac Main.java
 java Main
-
+```
 ---
 
 ## 🚀 Why SOLID?
