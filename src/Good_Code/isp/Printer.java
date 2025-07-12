@@ -1,5 +1,6 @@
 package Good_Code.isp;
 
-public interface Printer {
+public interface Printer 
+{
     void print();
 }
