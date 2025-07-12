@@ -1,5 +1,6 @@
 package Good_Code.dip;
 
-public interface DipOrderService {
+public interface DipOrderService
+{
     void pay(double amount);
 }
