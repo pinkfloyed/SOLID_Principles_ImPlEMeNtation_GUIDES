@@ -19,7 +19,7 @@ This Repository demonstrates examples of all 5 SOLID principles in object-orient
 4. **I** – Interface Segregation Principle (ISP)
 5. **D** – Dependency Inversion Principle (DIP)
 
-## 🚀 How to Run
+## 🚀 How to Run this Project
 
 Compile and run `Main.java` to see examples in action:
 
