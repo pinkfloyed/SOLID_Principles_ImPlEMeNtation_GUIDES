@@ -1,13 +1,16 @@
 package Bad_Code.isp;
 
 public class BadPrinter implements BadMachine {
-    public void print() {
+    public void print() 
+    {
         System.out.println("Printing...");
     }
-    public void scan() {
+    public void scan() 
+    {
         // not supported
     }
-    public void fax() {
+    public void fax() 
+    {
         // not supported
     }
 }
